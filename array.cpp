@@ -52,6 +52,7 @@ class array {
 } ; 
 
 int main() {
+	//hkadhkadhk
 	array<char> my_array(4) ; 
 	my_array.insert( 0 , 'a' ) ;
 	my_array.insert( 1 , 'b' ) ;
